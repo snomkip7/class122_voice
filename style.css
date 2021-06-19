@@ -1,0 +1,36 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+    font-family: 'Comfortaa', cursive;
+}
+body{
+    background-color: #69f0ae;
+    text-align: center;
+}
+div{
+    font-family: 'Comfortaa', cursive;
+}
+h1{
+    font-family: 'Macondo Swash Caps', cursive;
+}
+h4{
+    font-family: 'Nova Flat', cursive;
+}
+p{
+    font-family: 'Rubik', sans-serif;
+}
